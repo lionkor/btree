@@ -6,6 +6,5 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -Wpedantic --pedantic-erro
 
 project(btree)
 
-add_executable(btree main.cpp)
-
-#target_link_libraries(${CMAKE_PROJECT_NAME} )
+add_executable(btree main.cpp
+)
