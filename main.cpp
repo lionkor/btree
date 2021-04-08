@@ -1,3 +1,5 @@
+// Copyright (c) 2020-2021 Lion Kortlepel
+
 #include <iostream>
 #include <cassert>
 #include <cmath>
